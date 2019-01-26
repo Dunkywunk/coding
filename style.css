@@ -1,0 +1,20 @@
+body{
+background-color:lightblue;
+}
+
+#calculator{
+background-color:lightgrey;
+height:200px;
+width:150px;
+}
+
+#display{
+text-align: right;
+background-color:white;
+height:25px;
+}
+
+
+.button {
+width: 50px;
+}
